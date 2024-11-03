@@ -1,0 +1,11 @@
+numpy
+astropy
+pandas
+matplotlib
+tqdm
+tqdm_joblib
+scipy
+joblib
+fitsio
+astroquery
+python-dotenv
