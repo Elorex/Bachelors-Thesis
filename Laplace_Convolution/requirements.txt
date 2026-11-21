@@ -10,3 +10,4 @@ fitsio
 astroquery
 python-dotenv
 opencv-python
+scikit-image
